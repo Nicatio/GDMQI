@@ -13,9 +13,10 @@ This repository contains a Matlab implementation of "Multiscale morphology based
 
 ### Note
 
-We converted the original version of GDMQI written in C++ (using OpenCV) into this Matlab version.
+* We converted the original version of GDMQI written in C++ (using OpenCV) into this Matlab version.
+* It is not optimized version. 
+* Only 'Cropped version of Extended Yale-B database' was tested.
 
-Note that it is not optimized version.
 
 
 ### How to Use
