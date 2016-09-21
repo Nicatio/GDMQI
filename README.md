@@ -20,10 +20,10 @@ Note that it is not optimized version.
 
 ### How to Use
 
-1. Download 'Cropped version of Extended Yale-B database'.
-2. Open 'main.m' file.
+1. Download 'Cropped version of Extended Yale-B database'
+2. Open 'main.m' file
 3. Modify DB_LOCATION to specify the database location, (ex. DB_LOCATION = 'D:\Database\YaleB\';) 
-4. run.
+4. run
 
 
 ### Citation
