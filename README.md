@@ -21,7 +21,7 @@ This repository contains a Matlab implementation of "Multiscale morphology based
 
 ### How to Use
 
-1. Download 'Cropped version of Extended Yale-B database'
+1. Download and unzip 'Cropped version of Extended Yale-B database' ([Link](http://vision.ucsd.edu/~iskwak/ExtYaleDatabase/ExtYaleB.html))
 2. Open 'main.m' file
 3. Modify DB_LOCATION to specify the database location, (ex. DB_LOCATION = 'D:\Database\YaleB\';) 
 4. run
