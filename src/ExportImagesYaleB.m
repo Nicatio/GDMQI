@@ -1,6 +1,6 @@
-function ExportImagesYaleB (f, nImg, result, EXPORT_LOCATION)
+function ExportImagesYaleB (EXPORT_LOCATION, f, result)
 
-[~, b, c] = size(result);
+[nImg, b, c] = size(result);
 
 for i=1:nImg
     i
